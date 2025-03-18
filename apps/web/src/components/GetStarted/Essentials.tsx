@@ -40,9 +40,9 @@ export default async function Essentials() {
           classnames="bg-purple-80 border-purple-80"
         />
         <ResourceCard
-          title="Get Involved"
-          description="Become an active participant in the Base community"
-          href={`#${GET_INVOLVED_SECTION_ID}`}
+          title="Join the Builder Network"
+          description="Apply to join the Builder Network to access a variety of programs from Base"
+          href="https://forms.gle/AQhuzEZvXx9VYrer7"
           topLeft={<Icon name="people" color="white" />}
           classnames="bg-purple-60 border-purple-60"
         />
